@@ -1,0 +1,7 @@
+nombre,apellido,telefono,edad,correo,direccion,universidad,semestre,jornada,sexo
+Pedro,Sánchez,+57 310 456 7890,21,pedro.sanchez@universidad.edu,Calle 45 #12-34 Bogotá,Universidad de los Andes,4,Diurna,Masculino
+Laura,Gómez,+57 311 567 8901,19,laura.gomez@universidad.edu,Carrera 20 #34-56 Medellín,Universidad EAFIT,2,Nocturna,Femenino
+Camilo,Rojas,+57 312 678 9012,23,camilo.rojas@universidad.edu,Avenida 30 #45-67 Cali,Universidad del Valle,6,Diurna,Masculino
+Daniela,Castro,+57 313 789 0123,20,daniela.castro@universidad.edu,Calle 100 #23-45 Bogotá,Universidad Javeriana,3,Diurna,Femenino
+Santiago,Moreno,+57 314 890 1234,22,santiago.moreno@universidad.edu,Carrera 50 #67-89 Barranquilla,Universidad del Norte,5,Nocturna,Masculino
+
