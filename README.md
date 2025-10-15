@@ -207,8 +207,6 @@ Este proyecto fue desarrollado como parte de la **Actividad Sumativa Unidad 4** 
 - ✅ Documentación completa
 
 ## 👨‍💻 Autor
-
-[Tu Nombre]
 Politécnico Grancolombiano
 Maestría en Arquitectura Cloud
 
